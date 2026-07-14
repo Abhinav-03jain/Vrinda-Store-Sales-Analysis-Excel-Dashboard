@@ -76,3 +76,16 @@ The following analyses were performed:
 - Product Category Analysis
 
 The analysis was visualized through an interactive dashboard with slicers, allowing users to filter data by Month, Category, and Sales Channel.
+
+## 📈 Key Insights
+
+Based on the analysis, the following key insights were identified:
+
+- Women customers contributed approximately **65%** of the total sales, making them the primary customer segment.
+- Adult customers (30–49 years) accounted for the highest number of purchases.
+- March recorded the highest sales and order volume during 2022.
+- Maharashtra was the highest revenue-generating state, followed by Karnataka and Uttar Pradesh.
+- Amazon emerged as the top-performing sales channel, followed by Flipkart and Myntra.
+- The **Set** category was the highest-selling product category.
+- Most customer orders were successfully delivered, indicating a high order fulfillment rate.
+- The interactive dashboard enabled analysis of sales performance by month, state, gender, age group, category, and sales channel.
