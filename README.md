@@ -34,3 +34,15 @@ Before performing the analysis, the dataset was cleaned to improve data quality 
 - Checked numerical columns such as Sales Amount and Quantity for incorrect values.
 - Removed unnecessary spaces and formatting inconsistencies.
 - Verified that all records were complete and ready for analysis.
+
+- ## ⚙️ Data Preprocessing
+
+After cleaning the dataset, it was prepared for analysis by creating additional fields and organizing the data for reporting.
+
+### Data Preprocessing Tasks
+
+- Created a **Month** column from the Order Date for monthly sales analysis.
+- Created an **Age Group** column (Adult, Senior, Teenager) using Excel formulas.
+- Formatted data for Pivot Tables and Pivot Charts.
+- Verified data consistency before dashboard creation.
+- Organized the dataset for interactive analysis using slicers and filters.
