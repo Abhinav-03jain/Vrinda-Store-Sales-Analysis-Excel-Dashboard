@@ -60,3 +60,19 @@ The analysis was performed to answer the following business questions:
 7. Which Sales Channel generated the highest revenue?
 8. Which Product Category contributed the highest sales?
 
+   
+## 📊 Data Analysis
+
+The dataset was analyzed using Microsoft Excel to identify sales trends, customer purchasing behavior, and business performance. Pivot Tables and Pivot Charts were used to summarize and visualize the data.
+
+The following analyses were performed:
+
+- Monthly Sales and Order Analysis
+- Sales by Gender
+- Order Status Distribution
+- Top 10 States by Sales
+- Age Group vs Gender Analysis
+- Sales Channel Performance
+- Product Category Analysis
+
+The analysis was visualized through an interactive dashboard with slicers, allowing users to filter data by Month, Category, and Sales Channel.
