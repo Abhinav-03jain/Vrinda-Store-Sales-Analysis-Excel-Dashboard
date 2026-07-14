@@ -122,3 +122,9 @@ Based on the analysis, the following recommendations can help improve Vrinda Sto
 - Dashboard Design
 - Business Insights
 
+- ## 📊 Dashboard Visualization
+
+The interactive dashboard provides a comprehensive overview of **Vrinda Store's 2022 sales performance**. It includes dynamic KPIs, Pivot Charts, and Slicers that enable users to analyze sales trends, customer demographics, regional performance, sales channels, and product categories. The dashboard supports interactive filtering, making it easier to explore insights and support data-driven business decisions.
+
+![Vrinda Store Sales Dashboard](dashboard.png)
+
