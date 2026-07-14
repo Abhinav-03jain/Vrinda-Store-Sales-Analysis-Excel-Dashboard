@@ -99,4 +99,26 @@ Based on the analysis, the following recommendations can help improve Vrinda Sto
 - Strengthen partnerships and offer exclusive discounts on **Amazon, Flipkart, and Myntra**, as these channels generate the majority of sales.
 - Maintain adequate inventory for the highest-selling product categories to meet customer demand.
 - Use the interactive dashboard to monitor sales performance regularly and support data-driven business decisions.
+
+- ## 🛠️ Skills & Tools Used
+
+### Tools
+- Microsoft Excel
+
+### Excel Features
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- IF Formula
+- Text Functions
+- Date Functions
+
+### Data Analytics Skills
+- Data Cleaning
+- Data Preprocessing
+- Data Analysis
+- Data Visualization
+- Dashboard Design
+- Business Insights
 - 
