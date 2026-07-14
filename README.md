@@ -20,3 +20,17 @@ The dataset used in this project contains **Vrinda Store's 2022 sales records**.
 - Quantity
 - Order Status
 - Sales Channel
+
+- ## 🧹 Data Cleaning
+
+Before performing the analysis, the dataset was cleaned to improve data quality and ensure accurate results.
+
+### Data Cleaning Tasks
+
+- Checked the dataset for missing values.
+- Verified duplicate records.
+- Standardized text values for consistency (e.g., Gender and Order Status).
+- Converted the Order Date column into a proper date format.
+- Checked numerical columns such as Sales Amount and Quantity for incorrect values.
+- Removed unnecessary spaces and formatting inconsistencies.
+- Verified that all records were complete and ready for analysis.
