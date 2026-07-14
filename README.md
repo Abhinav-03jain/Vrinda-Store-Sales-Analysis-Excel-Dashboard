@@ -122,7 +122,8 @@ Based on the analysis, the following recommendations can help improve Vrinda Sto
 - Dashboard Design
 - Business Insights
 
-- ## 📷 Dashboard Preview
+- ## 📊 Dashboard Visualization
 
-![Vrinda Store Dashboard](dashboard.png)
-- 
+The dashboard provides an interactive overview of Vrinda Store's 2022 sales performance. Users can filter the data using slicers to analyze sales trends, customer demographics, top-performing states, sales channels, and product categories.
+
+![Vrinda Store Sales Dashboard](dashboard.png)
