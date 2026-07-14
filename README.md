@@ -121,4 +121,8 @@ Based on the analysis, the following recommendations can help improve Vrinda Sto
 - Data Visualization
 - Dashboard Design
 - Business Insights
+
+- ## 📷 Dashboard Preview
+
+![Vrinda Store Dashboard](dashboard.png)
 - 
