@@ -46,3 +46,17 @@ After cleaning the dataset, it was prepared for analysis by creating additional 
 - Formatted data for Pivot Tables and Pivot Charts.
 - Verified data consistency before dashboard creation.
 - Organized the dataset for interactive analysis using slicers and filters.
+
+- ## ❓ Business Questions
+
+The analysis was performed to answer the following business questions:
+
+1. Compare Sales and Orders using a single chart.
+2. Which month recorded the highest Sales and Orders?
+3. Who purchased more products – Men or Women?
+4. What are the different Order Status values?
+5. Which are the Top 10 States contributing to Sales?
+6. What is the relationship between Age Group and Gender?
+7. Which Sales Channel generated the highest revenue?
+8. Which Product Category contributed the highest sales?
+
